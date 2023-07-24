@@ -1,0 +1,8 @@
+D:\ps\ps13\ps13\bin\Debug\ps13.exe.config
+D:\ps\ps13\ps13\bin\Debug\ps13.exe
+D:\ps\ps13\ps13\bin\Debug\ps13.pdb
+D:\ps\ps13\ps13\obj\Debug\ps13.csproj.AssemblyReference.cache
+D:\ps\ps13\ps13\obj\Debug\ps13.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps13\ps13\obj\Debug\ps13.csproj.CoreCompileInputs.cache
+D:\ps\ps13\ps13\obj\Debug\ps13.exe
+D:\ps\ps13\ps13\obj\Debug\ps13.pdb
